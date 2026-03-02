@@ -1,0 +1,17 @@
+[
+  { "id": "nitrogen",        "name": "Nitrogen",        "formula": "N₂",   "molarMass": 28.014, "Tc": 126.2,  "Pc": 3394000,  "omega": 0.0377 },
+  { "id": "oxygen",          "name": "Oxygen",          "formula": "O₂",   "molarMass": 31.998, "Tc": 154.6,  "Pc": 5043000,  "omega": 0.0222 },
+  { "id": "hydrogen",        "name": "Hydrogen",        "formula": "H₂",   "molarMass": 2.016,  "Tc": 33.19,  "Pc": 1313000,  "omega": -0.216 },
+  { "id": "helium",          "name": "Helium",          "formula": "He",   "molarMass": 4.003,  "Tc": 5.195,  "Pc": 227600,   "omega": -0.390 },
+  { "id": "argon",           "name": "Argon",           "formula": "Ar",   "molarMass": 39.948, "Tc": 150.9,  "Pc": 4898000,  "omega": 0.0000 },
+  { "id": "carbon-dioxide",  "name": "Carbon Dioxide",  "formula": "CO₂",  "molarMass": 44.009, "Tc": 304.2,  "Pc": 7383000,  "omega": 0.2236 },
+  { "id": "carbon-monoxide", "name": "Carbon Monoxide", "formula": "CO",   "molarMass": 28.010, "Tc": 132.9,  "Pc": 3499000,  "omega": 0.0480 },
+  { "id": "methane",         "name": "Methane",         "formula": "CH₄",  "molarMass": 16.043, "Tc": 190.6,  "Pc": 4599000,  "omega": 0.0115 },
+  { "id": "ethane",          "name": "Ethane",          "formula": "C₂H₆", "molarMass": 30.069, "Tc": 305.3,  "Pc": 4872000,  "omega": 0.0995 },
+  { "id": "propane",         "name": "Propane",         "formula": "C₃H₈", "molarMass": 44.096, "Tc": 369.8,  "Pc": 4248000,  "omega": 0.1523 },
+  { "id": "water",           "name": "Water (steam)",   "formula": "H₂O",  "molarMass": 18.015, "Tc": 647.1,  "Pc": 22064000, "omega": 0.3449 },
+  { "id": "ammonia",         "name": "Ammonia",         "formula": "NH₃",  "molarMass": 17.031, "Tc": 405.4,  "Pc": 11353000, "omega": 0.2526 },
+  { "id": "sulfur-dioxide",  "name": "Sulfur Dioxide",  "formula": "SO₂",  "molarMass": 64.066, "Tc": 430.8,  "Pc": 7884000,  "omega": 0.2450 },
+  { "id": "hydrogen-sulfide","name": "Hydrogen Sulfide","formula": "H₂S",  "molarMass": 34.081, "Tc": 373.5,  "Pc": 8963000,  "omega": 0.0942 },
+  { "id": "neon",            "name": "Neon",            "formula": "Ne",   "molarMass": 20.180, "Tc": 44.49,  "Pc": 2679000,  "omega": -0.0384}
+]
